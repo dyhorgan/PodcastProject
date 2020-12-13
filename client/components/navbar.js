@@ -6,7 +6,7 @@ import {logout} from '../store'
 
 const Navbar = ({handleClick, isLoggedIn}) => (
   <div>
-    <h1>Spring/Java Project!</h1>
+    <h1>Podcast Project!</h1>
     <nav>
       {isLoggedIn ? (
         <div>
