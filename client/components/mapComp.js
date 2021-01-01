@@ -12,6 +12,7 @@ class MapComp extends React.Component {
         <div className="center">
           <h1>Which state are you interested in?</h1>
         </div>
+        <h4>Select a State</h4>
         <map>
           <img src="https://images7.alphacoders.com/687/thumb-1920-687665.jpg" />
         </map>
